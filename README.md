@@ -27,3 +27,4 @@ No frameworks, no libraries, no external backend, and no CSS variables—everyth
 1. Clone or download this repository.
 2. Open `index.html` in any modern web browser.
 3. Start logging your meals!
+
